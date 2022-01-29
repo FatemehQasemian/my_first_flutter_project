@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/i_am_rich/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/i_am_rich/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/i_am_rich/build" />
+      <excludeFolder url="file://$MODULE_DIR$/i_am_poor/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/i_am_poor/build" />
+      <excludeFolder url="file://$MODULE_DIR$/i_am_poor/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_layouts_challenge/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_layouts_challenge/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_layouts_challenge/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/quizzler/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/quizzler/build" />
+      <excludeFolder url="file://$MODULE_DIR$/quizzler/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/my_business_card/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/my_business_card/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/my_business_card/build" />
+      <excludeFolder url="file://$MODULE_DIR$/dicee/build" />
+      <excludeFolder url="file://$MODULE_DIR$/dicee/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/dicee/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ magic_8_ball/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/ magic_8_ball/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/ magic_8_ball/build" />
+      <excludeFolder url="file://$MODULE_DIR$/xylophone/build" />
+      <excludeFolder url="file://$MODULE_DIR$/xylophone/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/xylophone/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/destini_challenge_starting/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/destini_challenge_starting/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/destini_challenge_starting/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
